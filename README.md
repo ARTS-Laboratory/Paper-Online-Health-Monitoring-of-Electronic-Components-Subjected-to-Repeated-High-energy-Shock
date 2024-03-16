@@ -17,7 +17,7 @@ This work is licensed under a
 Cite as:
 
 @Misc{Satme2024OnlineHealthMonitoring,   
-  author = {Joud Satme, Daniel Coble},   
+  author = {Joud Satme and Daniel Coble},   
   howpublished = {GitHub},  
   title  = {Paper-Online-Health-Monitoring-of-Electronic-Components-Subjected-to-Repeated-High-energy-Shock},   
   year   = {2024},  
