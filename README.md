@@ -2,6 +2,18 @@
 
 This repo accompanies a paper submitted to SMASIS 2024 and contains a reproduction of the methodology demonstrated in that paper.
 
+<p align="center">
+<img src="figures/LSTM forward pass.png" alt="information flow diagram of LSTM-based model" width="600"/>
+
+Online health state estimator taking in accelerometer signal and predicting the health of electronic components.
+</p>
+
+<p align="center">
+<img src="figures/impact multiplot.png" alt="plot showing acceleration input and model output in time domain" width="600"/>
+
+Data of a healthy and damaged drop test showing: (a) impact acceleration; and; (b) model estimation through the impact.
+</p>
+
 ## Licensing and Citation
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
